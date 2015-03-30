@@ -1,0 +1,141 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "emax@cosmostat.com",
+    "longName": "term",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/battery.png",
+                "name": "IMAGE_BATTERY",
+                "type": "png"
+            },
+            {
+                "file": "images/bluetouch_off.png",
+                "name": "IMAGE_BT_OFF",
+                "type": "png"
+            },
+            {
+                "file": "images/bluetouch_on.png",
+                "name": "IMAGE_BT_ON",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.small.2.png",
+                "name": "TER_SMALL_2",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.big.3.png",
+                "name": "TER_BIG_3",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.big.0.png",
+                "name": "TER_BIG_0",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.small.1.png",
+                "name": "TER_SMALL_1",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.small.9.png",
+                "name": "TER_SMALL_9",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.small.8.png",
+                "name": "TER_SMALL_8",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.small.7.png",
+                "name": "TER_SMALL_7",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.small.6.png",
+                "name": "TER_SMALL_6",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.small.5.png",
+                "name": "TER_SMALL_5",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.small.4.png",
+                "name": "TER_SMALL_4",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.small.3.png",
+                "name": "TER_SMALL_3",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.small.0.png",
+                "name": "TER_SMALL_0",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.big.s.png",
+                "name": "TER_BIG_S",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.big.9.png",
+                "name": "TER_BIG_9",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.big.8.png",
+                "name": "TER_BIG_8",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.big.7.png",
+                "name": "TER_BIG_7",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.big.6.png",
+                "name": "TER_BIG_6",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.big.5.png",
+                "name": "TER_BIG_5",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.big.4.png",
+                "name": "TER_BIG_4",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.big.2.png",
+                "name": "TER_BIG_2",
+                "type": "png"
+            },
+            {
+                "file": "images/ter.big.1.png",
+                "name": "TER_BIG_1",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "term",
+    "uuid": "06f4d5b2-2816-4991-9a45-17301875a8dd",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}

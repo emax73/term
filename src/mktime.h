@@ -1,0 +1,1 @@
+time_t pebble_mktime (struct tm *timeptr);
